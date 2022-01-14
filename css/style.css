@@ -1,0 +1,42 @@
+.fondo {
+    background-color: black;
+}
+
+#carouselExampleSlidesOnly img {
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+}
+
+#galeria img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+#galeria .col-lg-6 {
+    margin: 0;
+    padding: 10px;
+}
+
+#carouselExampleControls img {
+
+    width: 750px;
+    height: 750px;
+    object-fit: cover;
+
+}
+
+#galeria2 img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+#galeria2 .col-lg-4 {
+    margin: 0;
+    padding: 20px;
+}
+
+#galeria2 img:hover{
+    border: 5px solid #f7f7f7;
+}
